@@ -1,0 +1,12 @@
+<svg viewBox="4 4 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Original XGEN mark on a dark tile for light and dark browser tabs. -->
+  <rect x="4" y="4" width="32" height="32" rx="6" fill="#080a0b"/>
+  <path d="M6 28C6 26.8954 6.89543 26 8 26H12C13.1046 26 14 26.8954 14 28V32C14 33.1046 13.1046 34 12 34H8C6.89543 34 6 33.1046 6 32V28Z" fill="url(#a)"/>
+  <path d="M34 12C34 13.1046 33.1046 14 32 14L28 14C26.8954 14 26 13.1046 26 12L26 8C26 6.89543 26.8954 6 28 6L32 6C33.1046 6 34 6.89543 34 8L34 12Z" fill="url(#b)"/>
+  <path d="M12 6C13.1046 6 14 6.89543 14 8V10C14 15.8591 18.8758 14.8758 22 18C25.1242 21.1242 24.1409 26 30 26H32C33.1046 26 34 26.8954 34 28V32C34 33.1046 33.1046 34 32 34H28C26.8954 34 26 33.1046 26 32V30C26 24.1409 21.1242 25.1242 18 22C14.8758 18.8758 15.8591 14 10 14H8C6.89543 14 6 13.1046 6 12V8C6 6.89543 6.89543 6 8 6H12Z" fill="url(#c)"/>
+  <defs>
+    <linearGradient id="a" x1="6.5" y1="34" x2="14" y2="26" gradientUnits="userSpaceOnUse"><stop stop-color="#D9D9D9"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <linearGradient id="b" x1="33.5" y1="6" x2="26" y2="14" gradientUnits="userSpaceOnUse"><stop stop-color="#D9D9D9"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+    <linearGradient id="c" x1="6" y1="6" x2="34" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="white"/><stop offset="0.2" stop-color="white"/><stop offset="0.4" stop-color="white" stop-opacity="0.2"/><stop offset="0.5" stop-color="white" stop-opacity="0.1"/><stop offset="0.6" stop-color="white" stop-opacity="0.2"/><stop offset="0.8" stop-color="white"/><stop offset="1" stop-color="white"/></linearGradient>
+  </defs>
+</svg>
